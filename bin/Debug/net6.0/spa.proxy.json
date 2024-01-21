@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44474",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\Anton\\source\\repos\\CryptoCurrencyDemoProject\\CryptoCurrencyDemoProject\\ClientApp\\",
+"MaxTimeoutInSeconds": "120"
+}
+}
